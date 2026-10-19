@@ -1,0 +1,9 @@
+# Setup logs contain machine and network details.
+OpenSSH_Setup_*.txt
+
+# Temporary files left by FUSE when an open file is deleted.
+.fuse_hidden*
+
+# Windows metadata.
+Thumbs.db
+Desktop.ini
